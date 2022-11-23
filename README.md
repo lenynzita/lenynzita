@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alain Nzita (Leny)</h1>
 <h3 align="center">A passionate Software Engineer</h3>
+<h4 align="center">Growing up in the Democratic Republic of Congo, I would tag along with my dad to his job during summer vacation. While using his office computer, I began to learn the intricacies of the Internet. I pursued a career as a master electrician, learning time management and attention to detail. Later intrigued by the transformative flexibility of the tech field, I made a career change. Presently, I am fascinated by my ability to create full stack web applications from scratch. I aim to inspire my own community to pursue careers in tech that will lead to innovative change in our country. As a member of your engineering team, my determination drives me to be an influential asset to your company.  </h4>
+
 
 - 🔭 I’m currently working on **Welcome to Africa**
 
+
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/makoso-leny-alain-nzita-6b370624b/">
 <p align="left">
 </p>
 
