@@ -4,10 +4,12 @@
 <h1 align="center">Hi 👋, I'm Alain Nzita (Leny)</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
+* ⚾ I am currently working on ReactJS
+* ⚽ I am learning SQL 
+* 🥎 I My Programming Languages : HTML5, CSS3, JS, ExpressJs, NodeJS
+* 🏀 I am a fullstack developer
+* 🏐 Contact me so that we can have a great chat: alenyzita@gmail.com
 
-
-
-<h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/makoso-leny-alain-nzita-6b370624b/">
 <p align="left">
 </p>
